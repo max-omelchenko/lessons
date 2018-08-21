@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Lucida Console", sans-serif;
+    font-size: 24px;
+    color: #f90fff;
+    background: linear-gradient(135deg, #50a3a2 10%, #434e5e 90%);
+    /*background-color: #50a3a2;*/
+}
+
+.left {
+    margin-left: 120px;
+    margin-top: 50px;
+    color: #dc1f1f;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+
