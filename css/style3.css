@@ -67,3 +67,11 @@ ul li i{
 ul li:nth-child(2n+1){
     font-weight: bold;
 }
+
+h2 a{
+    color: #50a3a2;
+    text-decoration: none;
+}
+h2 a:hover{
+    text-decoration: underline;
+}
